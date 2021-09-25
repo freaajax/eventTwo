@@ -1,0 +1,28 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+a{
+  text-decoration: none;
+  color: white;
+}
+a:hover{
+  color: white;
+}
+li{
+  list-style: none;
+}
+
+.bgcolor{
+  background: #D3D3D3;
+  box-shadow: 0 0 15px rgba(0,0,0,0.5);
+}
+._events{
+  margin: 1.3rem 0 0 0.9rem;
+}
+.profile-color{
+  background: red;
+  width: 1000px;
+  height: 100px;
+  color: red;
+}
